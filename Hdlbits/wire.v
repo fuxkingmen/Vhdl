@@ -1,3 +1,3 @@
-module wire( input in, output out );
-assign out = in;
+module wire4( input a,b,c output w,x,y,z );
+assign a = w;
 endmodule
