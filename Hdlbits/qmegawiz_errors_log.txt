@@ -1,0 +1,6 @@
+
+
+C:/Users/Vincent/Desktop/project2/project2/ADD.v
+
+Mar 12 05PM:53:08>: Megafunction ALTACCUMULATE is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
