@@ -20,5 +20,4 @@ module alwayscase (
         default: out<=4'b0000;
         endcase
     end
-
 endmodule
